@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AndreSilvaMata
-- 👀 I’m interested in web development, surf, judo and nature.
-- 🌱 I’m currently learning bootstrap and react at World Academy.
-- 💞️ I’m looking to collaborate on front end development teams.
-- 📫 Say hi, dont be shy.
 
-<!---
-AndreSilvaMata/AndreSilvaMata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello,
+I'm a Front End developer, based in Portugal. 
+
+In 2021 I decided to change my career and the first step was entering World Academy school. I focused myself in web development and learned to efficiently build responsive pages and apps for the web with HTML, Css, Javascript, React, and React Native. 
+
+Tech industry gives me the chance to unleash the creative spirit I developed during my years as a photographer. 
+I am always looking forward to learn and master skills in Front End and Ux/Ui. 
+
+If you realize that I would be a good fit, drop me a message. 
+
+
+
